@@ -1,16 +1,63 @@
-# vendepro
+<div align="center">
+  <h1>VendePro</h1>
+  <p>Sistema de Gestão de Vendas e Força de Vendas</p>
+</div>
 
-A new Flutter project.
+## 📱 Descrição
 
-## Getting Started
+<div>
+  <p>O VendePro é uma aplicação móvel desenvolvida em Flutter para gerenciamento de vendas e força de vendas. O sistema permite o controle de produtos, clientes, usuários e vendas, oferecendo uma interface intuitiva e eficiente para gestão comercial.</p>
+</div>
 
-This project is a starting point for a Flutter application.
+## 🛠️ Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+<div>
+  <ul>
+    <li>Gestão de Usuários
+      <ul>
+        <li>Cadastro e autenticação de usuários</li>
+        <li>Controle de acesso</li>
+      </ul>
+    </li>
+    <li>Gestão de Clientes
+      <ul>
+        <li>Cadastro de clientes</li>
+        <li>Histórico de clientes</li>
+      </ul>
+    </li>
+    <li>Gestão de Produtos
+      <ul>
+        <li>Cadastro de produtos</li>
+        <li>Controle de estoque</li>
+      </ul>
+    </li>
+    <li>Interface Intuitiva
+      <ul>
+        <li>Design moderno e responsivo</li>
+        <li>Navegação simplificada</li>
+      </ul>
+    </li>
+  </ul>
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Tecnologias Utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div>
+  <ul>
+    <li>Flutter</li>
+    <li>Dart</li>
+    <li>Material Design 3</li>
+  </ul>
+</div>
+
+## 👨‍💻 Desenvolvedores
+
+<div>
+  <ul>
+    <li>Abner G. Silveira - [123100042]</li>
+  </ul>
+</div>
+
+## 📸 Screenshots do Aplicativo
+
+
