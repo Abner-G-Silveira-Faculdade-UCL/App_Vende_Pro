@@ -59,5 +59,7 @@
 </div>
 
 ## 📸 Screenshots do Aplicativo
+![image](https://github.com/user-attachments/assets/7ec8ae36-fa24-494a-8b5e-ebc162fe92dd)
 
+![image](https://github.com/user-attachments/assets/614fcfb2-eadb-49fb-9729-c0354dca39cb)
 
